@@ -1,0 +1,4 @@
+npm create vite@latest neon-net-navigator -- --template react
+cd neon-net-navigator
+npm install
+npm install p5
